@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "zones",
+"name": "Zones VM180220",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Zone_ID": 1, "X": 501791, "Y": 162211, "Zone_Order": 4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.54034361091201, 51.349159494417762 ], [ -0.539732233970858, 51.349871262269879 ], [ -0.539390587227731, 51.349777079962799 ], [ -0.539972688590112, 51.349082933692493 ], [ -0.54034361091201, 51.349159494417762 ] ] ] } },
